@@ -1,2 +1,2 @@
 # dadjokes
-dad jokes generator featuring kratos!
+simple dad jokes generator featuring kratos!
